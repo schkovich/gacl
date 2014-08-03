@@ -1,7 +1,7 @@
-gacl
+GACL
 ====
 
-thoughts on phpGACL
+Thoughts on phpGACL
 
 AUTHORS
 Mike Benoit <ipso@snappymail.ca>
