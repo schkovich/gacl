@@ -1,4 +1,5 @@
 .idea
+.vagrant
 adodb/
 Cache_Lite/
 docs/
